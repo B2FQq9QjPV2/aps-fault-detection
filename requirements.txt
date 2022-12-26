@@ -1,5 +1,4 @@
 pymongo
-<<<<<<< HEAD
 pandas
 dill==0.3.5.1
 dnspython==2.2.1
@@ -17,6 +16,3 @@ websockets==10.3
 wincertstore==0.2
 xgboost==1.6.2
 -e .    #to install ur source code as ur library  ;(-e > editable installation,  . > current directory)
-=======
-pandas
->>>>>>> 4e48a79ef44fbbda3c61a16f32631b2a90752ba9
