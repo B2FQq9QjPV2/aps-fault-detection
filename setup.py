@@ -22,6 +22,6 @@ setup(
     version="0.0.1",
     author="Megha",
     author_email="meghaw42@gmail.com",
-    packages = find_packages(),
-    install_requires= get_requirements(),
+    packages=find_packages(),
+    install_requires=get_requirements(),
 )
